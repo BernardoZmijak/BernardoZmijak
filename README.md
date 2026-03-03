@@ -19,6 +19,7 @@
 ### 💻 Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![Go](https://skillicons.dev/icons?i=go)
+![C](https://skillicons.dev/icons?i=c)
 
 ### 🌐 Web Development
 ![HTML5 GIF](https://skillicons.dev/icons?i=html)
