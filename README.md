@@ -18,6 +18,7 @@
 
 ### 💻 Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 ![Go](https://skillicons.dev/icons?i=go)
 ![C](https://skillicons.dev/icons?i=c)
 
