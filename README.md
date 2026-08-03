@@ -9,10 +9,14 @@
 
 📍 Buenos Aires, Argentina
 
+✏️ Serving as a teaching assistant
+
 📫 Reach me at **bzmijak@fi.uba.ar**
 
 ## ⚒️ Some Projects
-> [**🕹️ The Overworld Academy**](https://github.com/FIUBA-return-0/the-overworld-academy?tab=readme-ov-file)
+> [**🕹️ CPU Defender**](https://github.com/paradigmas-tb025-essaya/tp1-2026c1-cpu-defender#tp1-tower-defense-simplificado)
+
+> [**📖 The Overworld Academy**](https://github.com/FIUBA-return-0/the-overworld-academy?tab=readme-ov-file)
 
 ## 🛠️ Technologies and Tools
 
